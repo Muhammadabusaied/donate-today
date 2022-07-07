@@ -81,6 +81,13 @@ h2 {
     border-radius: 3px;
 }
 
+.contact {
+    background-color: rgb(225, 237, 239);
+    padding: 20px;
+    margin: 50px 10px;
+    border-radius: 3px;
+}
+
 footer {
     color: tomato;
     background-color: black;
